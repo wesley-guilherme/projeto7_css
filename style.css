@@ -7,7 +7,7 @@
      }
 
      #cabecalho {
-      background-image: url("../assets/img1.png");
+      background-image: url(/assets/img1.png);
       background-size: cover;
       min-height: 506px;
       background-position: 69.5%;
