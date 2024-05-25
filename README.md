@@ -1,2 +1,2 @@
 # projeto7_css
-RESPONSIVIDADE DO SITE DISCORD
+RESPONSIVIDADE DO SITE DISCORD Projeto da DIO.ME A Tutora foi Michele Ambrosio Fiz uma clonagem do site DISCORD para torná-lo responsivo aos dispositivos SMARTPHONES e DESKTOPS Foi utilizado HTML e CSS puro onde a visualização mudaria quando o WIDTH fosse até 1199px ficando em modo de visualização para Smartphone De 1200px para cima fica responsivo para DESKTOPS Para que isso ocorresse utilizei a @media query limitando por tamanho de tela (de 320px até 1199px responsivo para SMARTPHONE e acima de 1200px responsivo para DESKTOPS)
