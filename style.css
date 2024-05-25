@@ -7,7 +7,7 @@
      }
 
      #cabecalho {
-      background-image: url('../assets/img1.png');
+      background-image: url('https://github.com/wesley-guilherme/projeto7_css/blob/002b80a765457028758d734493e3b3aa782f0c15/assets/img1.png');
       background-size: cover;
       min-height: 506px;
       background-position: 69.5%;
